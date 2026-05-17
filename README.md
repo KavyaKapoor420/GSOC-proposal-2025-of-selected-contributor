@@ -132,12 +132,12 @@ That's it. Your work could help someone get in next year.
 <!-- Add contributors below -->
 - [Asish Kumar](https://github.com/officialasishkumar)
 - [Jay Kapadia](https://github.com/JayKapadia389)
-- [Kavyakapoor](https://github.com/kavyakapoor420)
+- [KavyaKappoor420](https://github.com/KavyaKapoor420)
 - [Ritesh Kumar Singh](https://github.com/riteshdavv)
 
 <div align="center">
   <a href="https://github.com/JayKapadia389"><img src="https://github.com/JayKapadia389.png" width="60px" alt="JayKapadia389" /></a>
-  <a href="https://github.com/kavyakapoor420"><img src="https://github.com/kavyakapoor420.png" width="60px" alt="kavyakapoor420" /></a>
+  <a href="https://github.com/KavyaKapoor420"><img src="https://github.com/KavyaKapoor420.png" width="60px" alt="KavyaKapoor420" /></a>
   <a href="https://github.com/officialasishkumar"><img src="https://github.com/officialasishkumar.png" width="60px" alt="officialasishkumar" /></a>
   <a href="https://github.com/riteshdavv"><img src="https://github.com/riteshdavv.png" width="60px" alt="riteshdavv" /></a>
 </div>
